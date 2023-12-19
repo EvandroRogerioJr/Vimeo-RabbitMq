@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "8KCHN+EUMCEHI3ley7+SsTX6n1hmRB33a7OfLewimzLU0VBPVO2UagGEBLlSk1tpKO6+CGEgGVPzqBCEmuJHXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\evand\\source\\repos\\VimeoUpdate\\VimeoUpdate\\VimeoUpdate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\evand\\.nuget\\packages\\azure.core\\1.36.0\\azure.core.1.36.0.nupkg.sha512",
+    "C:\\Users\\evand\\.nuget\\packages\\azure.storage.blobs\\12.19.1\\azure.storage.blobs.12.19.1.nupkg.sha512",
+    "C:\\Users\\evand\\.nuget\\packages\\azure.storage.common\\12.18.1\\azure.storage.common.12.18.1.nupkg.sha512",
+    "C:\\Users\\evand\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\evand\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\evand\\.nuget\\packages\\rabbitmq.client\\6.7.0\\rabbitmq.client.6.7.0.nupkg.sha512",
+    "C:\\Users\\evand\\.nuget\\packages\\restsharp\\107.0.1\\restsharp.107.0.1.nupkg.sha512",
+    "C:\\Users\\evand\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "C:\\Users\\evand\\.nuget\\packages\\system.io.hashing\\6.0.0\\system.io.hashing.6.0.0.nupkg.sha512",
+    "C:\\Users\\evand\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\evand\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\evand\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\evand\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\evand\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\evand\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
+    "C:\\Users\\evand\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\evand\\.nuget\\packages\\tusdotnet\\2.7.2\\tusdotnet.2.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,24 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Bem-vindo</h1>
+    <p>Saiba mais sobre <a href="https://learn.microsoft.com/aspnet/core">como criar aplicativos da web com ASP.NET Core</a>.</p>
+</div>
+
+<form method="post" enctype="multipart/form-data" asp-page="/Video/UploadVideo">
+    <label for="arquivo">Selecione um arquivo de vídeo:</label>
+    <input type="file" name="arquivo" id="arquivo" accept="video/*" required>
+    <br>
+    <button type="submit">Enviar</button>
+</form>
+
+@if (!string.IsNullOrEmpty(ViewData["Mensagem"] as string))
+{
+    <div class="alert alert-success mt-3" role="alert">
+        @ViewData["Mensagem"]
+    </div>
+}
